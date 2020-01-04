@@ -54,7 +54,7 @@ window.onload = init;
 <h2>Application components - IntelliJ Idea, Java, HTML, Javascript, Git, GitHub, Maven, Jenkins, TomCat </h2>
 
 <div id="fooObject">
- CI/CD pipeline
+ CI/CD
 </div>
 
 </body>
