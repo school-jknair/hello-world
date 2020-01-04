@@ -19,7 +19,7 @@ h1, h2 {
  top:8em;
  width:5em;
  line-height:3em;
- background:#99ccff;
+ background:#88ccff;
  border:1px solid #003366;
  white-space:nowrap;
  padding:0.5em;
@@ -54,7 +54,7 @@ window.onload = init;
 <h2>Application components - IntelliJ Idea, Java, HTML, Javascript, Git, GitHub, Maven, Jenkins, TomCat </h2>
 
 <div id="fooObject">
- CI/CD
+   CI/CD
 </div>
 
 </body>
