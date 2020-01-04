@@ -49,11 +49,12 @@ window.onload = init;
 
 <body>
 
-<h1>Javascript animation: Demo 1</h1>
-<h2>Recursive setTimeout-based animation</h2>
+<h1>CI/CD pipeline demo</h1>
+<h2>Infrastructure components - AMI, EC2, EBS, Amazon Linux</h2>
+<h2>Application components - IntelliJ Idea, Java, HTML, Javascript, Git, GitHub, Maven, Jenkins, TomCat </h2>
 
 <div id="fooObject">
- CI/CD pipe line demo
+ :-)
 </div>
 
 </body>
