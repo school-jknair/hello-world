@@ -36,9 +36,10 @@ div {
 </head>
 <body>
 
-<p><b>Note:</b> This example does not work in Internet Explorer 9 and earlier versions.</p>
-
-<div></div>
+<h1> Hello All,  </h1>
+<h2> Aim of this session is to provide you a demo on CI/CD pipeline </h2>
+<h2> Glad to see you here </h2>
+<h1>Mr. XXX and Mr. YYY , your feedback is very important to the next step.<h1>
 
 </body>
 </html>
