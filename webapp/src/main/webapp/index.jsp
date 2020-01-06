@@ -59,9 +59,9 @@ window.onload = init;
 <body style="background-color:transparent;">
 
 <h1>CI/CD pipeline demo</h1>
-<h2>Infrastructure components - AMI, EC2, EBS, Amazon Linux</h2>
-<h2>Application components - IntelliJ Idea, Java, HTML, Javascript, Git, GitHub, Maven, Jenkins, Ansible, Docker, TomCat </h2>
-<h2>Deployments - VM, Container </h2>
+<h2><span style="color:rgb(255, 72, 0);font-weight:bold">Infrastructure components</span> - AMI, EC2, EBS, Amazon Linux</h2>
+<h2><span style="color:rgb(255, 72, 0);font-weight:bold">Application components</span> - IntelliJ Idea, Java, HTML, Javascript, Git, GitHub, Maven, Jenkins, Ansible, Docker, TomCat </h2>
+<h2><span style="color:rgb(255, 72, 0);font-weight:bold">Deployments</span> - VM, Container </h2>
 
 <div id="fooObject">
 Demo created by Jayakumar Nair
