@@ -60,8 +60,8 @@ window.onload = init;
 
 <h1>CI/CD pipeline demo</h1>
 <h2>Infrastructure components - AMI, EC2, EBS, Amazon Linux</h2>
-<h2>Application components - IntelliJ Idea, Java, HTML, Javascript, Git, GitHub, Maven, Jenkins, TomCat </h2>
-
+<h2>Application components - IntelliJ Idea, Java, HTML, Javascript, Git, GitHub, Maven, Jenkins, Ansible, Docker, TomCat </h2>
+<h2>Deployments - VM, Container </h2>
 
 <div id="fooObject">
 Demo created by Jayakumar Nair
